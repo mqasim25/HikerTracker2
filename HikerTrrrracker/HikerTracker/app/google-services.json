@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "422255568064",
+    "firebase_url": "https://hikertracker.firebaseio.com",
+    "project_id": "hikertracker",
+    "storage_bucket": "hikertracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422255568064:android:cf67d68d3dc691c5b9f925",
+        "android_client_info": {
+          "package_name": "com.example.locationaccess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422255568064-rm9hcpsm4om6g72v86ek04thu2cmejms.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.locationaccess",
+            "certificate_hash": "7841ccc89c0e11c00b41fd039f37ba80039cc089"
+          }
+        },
+        {
+          "client_id": "422255568064-1bi7lsa5pkl2um9540gim8srkbu5ivhj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM5owA2BqxcLzY8Hu7p9iBgtW1n7dgpqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422255568064-1bi7lsa5pkl2um9540gim8srkbu5ivhj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

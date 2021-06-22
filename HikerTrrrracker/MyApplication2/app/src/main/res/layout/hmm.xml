@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="191dp"
+        android:layout_height="35dp"
+        android:text="Are you Sure?"
+        android:textColor="#0E0E0E"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="105dp"
+        tools:layout_editor_absoluteY="230dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="195dp"
+        android:layout_height="88dp"
+        android:background="#7C7878"
+        tools:layout_editor_absoluteX="105dp"
+        tools:layout_editor_absoluteY="265dp" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="56dp"
+        android:layout_height="34dp"
+        android:text="@android:string/yes"
+        tools:layout_editor_absoluteX="118dp"
+        tools:layout_editor_absoluteY="288dp" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="81dp"
+        android:layout_height="38dp"
+        android:text="Disagree"
+        tools:layout_editor_absoluteX="196dp"
+        tools:layout_editor_absoluteY="288dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>

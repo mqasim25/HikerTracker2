@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hike Tracker</string>
+    <string name="dummydata">This app was created with only one goal in mind, keeping track where people are. Whether it\'s a loved one on the other side of the globe or an adolescent out on his own during a hike. Sometimes you just want to know where they are.
+
+        \n\nNo unnecessary fuss, just a location, time and name, collected in an online database.
+
+        \n\nDeveloped by ABBOV Automation, for more questions mail busger@gmail.com</string>
+</resources>
